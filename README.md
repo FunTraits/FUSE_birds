@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 # The hidden cost of a single index: dimension-explicit functional vulnerability across the global avifauna
-
-**Author:** Aurele Toussaint  
-**Affiliation:** CNRS, France
-
 
 This repository contains the data, code, and figures supporting the article:
 
@@ -37,6 +32,4 @@ To reproduce the exact package versions used in the analysis:
 
 ```bash
 git clone https://github.com/AureleToussaint/FUSE_Bird.git
-=======
-# FUSE_birds
->>>>>>> origin/main
+
